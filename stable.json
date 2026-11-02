@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "code": 22501,
-  "version": "22.5.1",
+  "code": 22502,
+  "version": "22.5.2",
   "minNative": 2250,
   "maxNative": 2250,
-  "url": "https://raw.githubusercontent.com/KIZANO13/ViasFacil-Web-Updates/main/web-22501.zip",
-  "sha256": "cdb9611b4ca1d1f94f4335c74ddc4ece95b37498db8e10339a21f8902a02ce70",
-  "bytes": 107503,
-  "notes": "Teste de atualizacao remota: marcador visual no painel",
-  "signature": "Rroz9FBEfwo3YCts9AqvkaDmr46uBDGXKvakqQHjpYpx4PXygJZ+Q2eGENkUgR794/YUSfzTaslqXEv63bcBeskPlBPerxQTudEsxaJrlLgZdaucxF5/ca3Fjd1cCJ7mlAJBpG27apfP8D4A8Vlhmq/Jr0je7lgT2jB1NLcxWtoUfS1bibz2TGFAd5Z0cw8CA3eBpHDbEW+TYx5LQ+60bEh2EJaqQ6ZMcnpaWKXf41CwywWN6Gfu1j2C7EwvxXi5iLXfbPaPfMMnm+2Td2E6XlPfwDvkE4r+bObZCO1JVWmqtLegyCsS1QbZKnHem1W6DwfJkGuEaO6DyBMr771mzOWnia8NMEvRZy4e+exprWZboXYVG7JHPKdqlCyLGjI3k9IMESUA6KiyLitPkbBj9JspfAi6o3vHlYma7j3R4KXu+cDgePdYvx7WIYxNwEs82oMfh90pfqtE3iFYcUTsVQAKGw+xOvUJNpG05NneEnWq1lMlVvn73a0VYvoeo4EQ"
+  "url": "https://raw.githubusercontent.com/KIZANO13/ViasFacil-Web-Updates/main/web-22502.zip",
+  "sha256": "01df2ea095d6a556691f5e426904ba2cccaf95b5a84060c882b8416da615e584",
+  "bytes": 108974,
+  "notes": "Atualizador compacto; detalhes apenas quando há nova versão, com reversão acessível em Opções",
+  "signature": "hUpSaU+4MH26V9lTk9T1aHKKVeNV1y1ldz9mlrlR/SwQtibUKXb904IaSpQhE+ZmzPMsUHV8b1YvgT6uztUDvmUYxRwlqHcyu7AeuIHSr0IXuQiPMvmyO3dLjLbLqEgiFTXRNuxgbW7OwG4q1nvx/JzSQX3WEMAr1qqs1HEIJd7hBFRe+l5dC2BJJ0tWYAQHs2pg4ZwwDFVoNOuLNkun+krfuuGmRk03rUZ/asEuKOz585z1gSPk/vrHvnbUApSeEt87DnwKSUQpCowTWdNmS8ngZWeXBNw0AIQAqWC5c+sjM6O1iHiXClAPvSwUvAGLv02Ha/+UvypJ96o541O+pYbbMjM3xDparhfC9hwlcdpVIqf8dGW8mRjF4ADFOipFpSF4jAdmIUDJ56DmCd/D/f29yIGhPTPHLuuT78qQRLemLz9Ks+SCz+iG+drP55Fch9Q7OxKWiPHM7JAeHxfEumcUZsrikUewNRekCWmEDbS1dvRxgVBgvvaVZmqUQLst"
 }
